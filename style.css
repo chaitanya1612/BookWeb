@@ -1,0 +1,9 @@
+body{
+    text-align:center ;
+    background-color: greenyellow;
+    font-size: 200%;
+}
+#Fictional, #Non-fictional, #Classic, #horror, #adventure{
+    height: 200px;
+    width: 200px;
+}
